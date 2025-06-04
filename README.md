@@ -39,7 +39,7 @@ This is a small React Native test project for an e-commerce app. The app feature
 
 ```sh
 git clone https://github.com/Annanya-panda/Native_ecomm_app.git
-cd react-native-test-app
+cd Native_ecomm_app
 npm install
 
 ## Step 1: Start Metro
